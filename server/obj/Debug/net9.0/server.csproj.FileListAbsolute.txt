@@ -1,0 +1,15 @@
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\obj\Debug\net9.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\obj\Debug\net9.0\server.AssemblyInfoInputs.cache
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\obj\Debug\net9.0\server.AssemblyInfo.cs
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\obj\Debug\net9.0\server.csproj.CoreCompileInputs.cache
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\obj\Debug\net9.0\server.sourcelink.json
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\bin\Debug\net9.0\server.exe
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\bin\Debug\net9.0\server.deps.json
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\bin\Debug\net9.0\server.runtimeconfig.json
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\bin\Debug\net9.0\server.dll
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\bin\Debug\net9.0\server.pdb
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\obj\Debug\net9.0\server.dll
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\obj\Debug\net9.0\refint\server.dll
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\obj\Debug\net9.0\server.pdb
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\obj\Debug\net9.0\server.genruntimeconfig.cache
+D:\Users\Макс\Desktop\For Frame\Lab4_ISRPO_Lepilkin\server\obj\Debug\net9.0\ref\server.dll
