@@ -53,6 +53,7 @@
 ##### Пятый заголовок
 ###### Шестой заголовок
 
+---
 ## Списки
 **Маркированный:**
 - one
@@ -82,10 +83,10 @@ $$
 [Ссылка на репозиторий](https://github.com/MoodKOTE/Lab4_ISRPO_Lepilkin.git)
 
 ## Скриншоты
-[1](/repo/backend_Lepilkin.png)
-[2](/repo/browser_Lepilkin.png)
-[3](/repo/git_Lepilkin.png)
-[4](/repo/terminal_Lepilkin.png)
+- [1](/repo/backend_Lepilkin.png)
+- [2](/repo/browser_Lepilkin.png)
+- [3](/repo/git_Lepilkin.png)
+- [4](/repo/terminal_Lepilkin.png)
 
 ## Заключение 
 В этом проекте были закреплены навыки работы с GitBash, HTML и Markdown.
